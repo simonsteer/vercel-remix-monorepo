@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/simonsteer/.nvm/versions/node/v14.20.0/bin/node /usr/local/bin/yarn add typescript
+
+PATH: 
+  /Users/simonsteer/.rvm/gems/ruby-3.0.0/bin:/Users/simonsteer/.rvm/gems/ruby-3.0.0@global/bin:/Users/simonsteer/.rvm/rubies/ruby-3.0.0/bin:/Users/simonsteer/.nvm/versions/node/v14.20.0/bin:/Users/simonsteer/code/google-cloud-sdk/bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Apple/usr/bin:/Users/simonsteer/.rvm/gems/ruby-3.0.0/bin:/Users/simonsteer/.rvm/gems/ruby-3.0.0@global/bin:/Users/simonsteer/.rvm/rubies/ruby-3.0.0/bin:/Users/simonsteer/.nvm/versions/node/v14.20.0/bin:/Users/simonsteer/code/google-cloud-sdk/bin:/usr/local/share/npm/bin:/Users/simonsteer/.cargo/bin:/Users/simonsteer/.rvm/bin:/Users/simonsteer/.rvm/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.20.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/simonsteer/code/vercel-remix-monorepo/shared/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
